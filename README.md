@@ -1,6 +1,4 @@
-# easternAirlinesApp
-
-> 东航候补系统前端
+# webpack-vuejs-vue-router
 
 ## 环境部署
 
