@@ -1,8 +1,8 @@
 {
-  "name": "easternAirlinesApp",
+  "name": "webpack-vuejs",
   "version": "1.0.0",
-  "description": "东航候补系统前端",
-  "author": "Du,Xiao <Xiao.Du@pactera.com>",
+  "description": "",
+  "author": "syanfeng",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
